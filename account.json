@@ -1,53 +1,47 @@
 [
   {
     "id": 1,
-    "username": "admin1",
     "password": "admin123",
     "accounttype": "admin",
     "email": "admin1@example.com"
   },
   {
     "id": 2,
-    "username": "admin2",
     "password": "admin456",
     "accounttype": "admin",
     "email": "admin2@example.com"
   },
   {
     "id": 3,
-    "username": "dr.smith",
     "password": "doctor123",
     "accounttype": "doctor",
     "email": "dr.smith@example.com"
   },
   {
     "id": 4,
-    "username": "dr.jones",
     "password": "doctor456",
     "accounttype": "doctor",
     "email": "dr.jones@example.com"
   },
   {
     "id": 5,
-    "username": "patient01",
     "password": "patient123",
     "accounttype": "patient",
     "email": "patient01@example.com"
   },
   {
     "id": 6,
-    "username": "patient02",
     "password": "patient456",
     "accounttype": "patient",
     "email": "patient02@example.com"
   },
   {
     "id": 7,
-    "username": "patient03",
     "password": "patient789",
     "accounttype": "patient",
     "email": "patient03@example.com"
   }
 ]
+
 
 
