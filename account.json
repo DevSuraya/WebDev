@@ -1,0 +1,44 @@
+[
+  {
+    "username": "admin1",
+    "password": "admin123",
+    "accounttype": "admin",
+    "email": "admin1@example.com"
+  },
+  {
+    "username": "admin2",
+    "password": "admin456",
+    "accounttype": "admin",
+    "email": "admin2@example.com"
+  },
+  {
+    "username": "dr.smith",
+    "password": "doctor123",
+    "accounttype": "doctor",
+    "email": "dr.smith@example.com"
+  },
+  {
+    "username": "dr.jones",
+    "password": "doctor456",
+    "accounttype": "doctor",
+    "email": "dr.jones@example.com"
+  },
+  {
+    "username": "patient01",
+    "password": "patient123",
+    "accounttype": "patient",
+    "email": "patient01@example.com"
+  },
+  {
+    "username": "patient02",
+    "password": "patient456",
+    "accounttype": "patient",
+    "email": "patient02@example.com"
+  },
+  {
+    "username": "patient03",
+    "password": "patient789",
+    "accounttype": "patient",
+    "email": "patient03@example.com"
+  }
+]

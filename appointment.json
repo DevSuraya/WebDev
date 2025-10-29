@@ -1,0 +1,86 @@
+ [
+    {
+      "id": "APT001",
+      "patient_id": 1,
+      "type": "virtual",
+      "date": "2025-10-30",
+      "time": "09:30",
+      "doctor": "Dr. Amina Boateng",
+      "link": "https://telemed.example.com/room/apt001"
+    },
+    {
+      "id": "APT002",
+      "patient_id": 23,
+      "type": "physical",
+      "date": "2025-10-31",
+      "time": "14:00",
+      "doctor": "Dr. Elsa Mensah",
+      "location": "Room 3B, Wellness Clinic, Accra"
+    },
+    {
+      "id": "APT006",
+      "patient_id": 26,
+      "type": "virtual",
+      "date": "2025-11-03",
+      "time": "10:00",
+      "doctor": "Dr. Kwaku Adjei",
+      "specialization": "Dermatologist",
+      "link": "https://telemed.example.com/room/derm006",
+      "reason": "Follow-up for acne treatment",
+      "status": "Scheduled",
+      "notes": "Patient prefers morning sessions."
+    },
+    {
+      "id": "APT007",
+      "patient_id": 29,
+      "type": "physical",
+      "date": "2025-11-05",
+      "time": "13:30",
+      "doctor": "Dr. Laila Koomson",
+      "specialization": "Pediatrician",
+      "location": "Wellness Clinic, Room 2C, Accra",
+      "reason": "Routine child wellness check",
+      "status": "Confirmed",
+      "notes": "Parent requested same-day consultation."
+    },
+    {
+      "id": "APT008",
+      "patient_id": 30,
+      "type": "virtual",
+      "date": "2025-11-07",
+      "time": "09:15",
+      "doctor": "Dr. Nathaniel Mensah",
+      "specialization": "General Practitioner",
+      "link": "https://telemed.example.com/room/gp008",
+      "reason": "Mild fever and headache",
+      "status": "Scheduled",
+      "notes": "Patient to upload temperature readings before call."
+    },
+    {
+      "id": "APT009",
+      "patient_id": 33,
+      "type": "physical",
+      "date": "2025-11-09",
+      "time": "15:45",
+      "doctor": "Dr. Amina Boateng",
+      "specialization": "Cardiologist",
+      "location": "Accra Heart Centre, Room 101",
+      "reason": "Blood pressure review",
+      "status": "Completed",
+      "notes": "BP slightly elevated; follow-up in 1 month."
+    },
+    {
+      "id": "APT010",
+      "patient_id": 35,
+      "type": "virtual",
+      "date": "2025-11-11",
+      "time": "11:00",
+      "doctor": "Dr. Kwesi Owusu",
+      "specialization": "Psychiatrist",
+      "link": "https://telemed.example.com/room/psy010",
+      "reason": "Anxiety management session",
+      "status": "Confirmed",
+      "notes": "30-minute therapy consultation via video."
+    }
+  ]
+

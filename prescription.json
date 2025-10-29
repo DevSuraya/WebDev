@@ -1,0 +1,117 @@
+ [
+    {
+      "id": "RX001",
+      "appointment_id": "APT001",
+      "patient_id": 1,
+      "doctor": {
+        "name": "Dr. Amina Boateng",
+        "specialization": "General Practitioner"
+      },
+      "date_issued": "2025-10-30",
+      "medications": [
+        {
+          "name": "Paracetamol 500mg",
+          "dosage": "1 tablet every 6 hours",
+          "duration": "5 days",
+          "instructions": "Take after meals with water."
+        },
+        {
+          "name": "Cough Syrup",
+          "dosage": "10ml twice daily",
+          "duration": "7 days",
+          "instructions": "Shake well before use."
+        }
+      ],
+      "notes": "Patient reports mild flu-like symptoms. Advise rest and hydration."
+    },
+    {
+      "id": "RX002",
+      "appointment_id": "APT002",
+      "patient_id": 2,
+      "doctor": {
+        "name": "Dr. Elsa Mensah",
+        "specialization": "Psychologist"
+      },
+      "date_issued": "2025-11-02",
+      "medications": [
+        {
+          "name": "Sertraline 50mg",
+          "dosage": "1 tablet daily",
+          "duration": "30 days",
+          "instructions": "Take in the morning with food."
+        }
+      ],
+      "notes": "Continue therapy sessions weekly. Monitor mood and sleep patterns."
+    },
+    {
+      "id": "RX003",
+      "appointment_id": "APT003",
+      "patient_id": 3,
+      "doctor": {
+        "name": "Dr. Kofi Asare",
+        "specialization": "Nutritionist"
+      },
+      "date_issued": "2025-11-05",
+      "medications": [
+        {
+          "name": "Vitamin D Supplement",
+          "dosage": "1 capsule daily",
+          "duration": "60 days",
+          "instructions": "Take with breakfast."
+        },
+        {
+          "name": "Iron Tablets 65mg",
+          "dosage": "1 tablet every other day",
+          "duration": "30 days",
+          "instructions": "Avoid taking with dairy or caffeine."
+        }
+      ],
+      "notes": "Low iron levels detected. Adjust diet to include leafy greens and lean meats."
+    },
+    {
+      "id": "RX004",
+      "appointment_id": "APT004",
+      "patient_id": 4,
+      "doctor": {
+        "name": "Dr. Aubrey Dunston",
+        "specialization": "Cardiologist"
+      },
+      "date_issued": "2025-11-10",
+      "medications": [
+        {
+          "name": "Atorvastatin 20mg",
+          "dosage": "1 tablet nightly",
+          "duration": "90 days",
+          "instructions": "Take at bedtime with water."
+        },
+        {
+          "name": "Aspirin 81mg",
+          "dosage": "1 tablet daily",
+          "duration": "90 days",
+          "instructions": "Take with food to avoid stomach upset."
+        }
+      ],
+      "notes": "Monitor cholesterol levels and reduce salt intake."
+    },
+    {
+      "id": "RX005",
+      "appointment_id": "APT005",
+      "patient_id": 5,
+      "doctor": {
+        "name": "Dr. Sarah Owusu",
+        "specialization": "Pediatrician"
+      },
+      "date_issued": "2025-11-12",
+      "medications": [
+        {
+          "name": "Amoxicillin 250mg/5ml Suspension",
+          "dosage": "5ml three times daily",
+          "duration": "7 days",
+          "instructions": "Complete the full course even if symptoms improve."
+        }
+      ],
+      "notes": "Child presented with mild throat infection. Encourage fluids and rest."
+    }
+  
+
+  ]

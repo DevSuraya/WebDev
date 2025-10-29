@@ -1,0 +1,123 @@
+ [
+    {
+      "id": "MR001",
+      "patient_id": 1,
+      "appointment_id": "APT001",
+      "prescription_id": "RX001",
+      "doctor": {
+        "name": "Dr. Amina Boateng",
+        "specialization": "General Practitioner"
+      },
+      "visit_date": "2025-10-30",
+      "diagnosis": "Viral upper respiratory infection (common cold)",
+      "symptoms": ["Fever", "Cough", "Sore throat", "Fatigue"],
+      "vitals": {
+        "temperature_c": 37.9,
+        "blood_pressure": "118/76",
+        "heart_rate_bpm": 80,
+        "oxygen_saturation": "97%"
+      },
+      "allergies": ["Penicillin"],
+      "prescribed_medications": ["Paracetamol 500mg", "Cough Syrup"],
+      "treatment_plan": "Symptomatic treatment and rest for 5 days.",
+      "follow_up_date": "2025-11-06",
+      "notes": "Patient advised to increase fluid intake and rest."
+    },
+    {
+      "id": "MR002",
+      "patient_id": 2,
+      "appointment_id": "APT002",
+      "prescription_id": "RX002",
+      "doctor": {
+        "name": "Dr. Elsa Mensah",
+        "specialization": "Psychologist"
+      },
+      "visit_date": "2025-11-02",
+      "diagnosis": "Generalized Anxiety Disorder",
+      "symptoms": ["Restlessness", "Fatigue", "Irritability", "Insomnia"],
+      "vitals": {
+        "temperature_c": 36.6,
+        "blood_pressure": "122/80",
+        "heart_rate_bpm": 78,
+        "oxygen_saturation": "99%"
+      },
+      "allergies": [],
+      "prescribed_medications": ["Sertraline 50mg"],
+      "treatment_plan": "Start SSRI therapy and weekly counseling sessions.",
+      "follow_up_date": "2025-11-09",
+      "notes": "Monitor mood patterns; encourage journaling."
+    },
+    {
+      "id": "MR003",
+      "patient_id": 3,
+      "appointment_id": "APT003",
+      "prescription_id": "RX003",
+      "doctor": {
+        "name": "Dr. Kofi Asare",
+        "specialization": "Nutritionist"
+      },
+      "visit_date": "2025-11-05",
+      "diagnosis": "Iron Deficiency Anemia",
+      "symptoms": ["Fatigue", "Pale skin", "Shortness of breath"],
+      "vitals": {
+        "temperature_c": 36.9,
+        "blood_pressure": "115/72",
+        "heart_rate_bpm": 84,
+        "oxygen_saturation": "98%"
+      },
+      "allergies": ["Lactose"],
+      "prescribed_medications": ["Vitamin D Supplement", "Iron Tablets 65mg"],
+      "treatment_plan": "Increase iron intake and reduce caffeine consumption.",
+      "follow_up_date": "2025-12-05",
+      "notes": "Encouraged dietary changes and light exercise."
+    },
+    {
+      "id": "MR004",
+      "patient_id": 4,
+      "appointment_id": "APT004",
+      "prescription_id": "RX004",
+      "doctor": {
+        "name": "Dr. Aubrey Dunston",
+        "specialization": "Cardiologist"
+      },
+      "visit_date": "2025-11-10",
+      "diagnosis": "Hyperlipidemia",
+      "symptoms": ["None (routine checkup)"],
+      "vitals": {
+        "temperature_c": 36.5,
+        "blood_pressure": "130/85",
+        "heart_rate_bpm": 75,
+        "oxygen_saturation": "98%"
+      },
+      "allergies": ["Shellfish"],
+      "prescribed_medications": ["Atorvastatin 20mg", "Aspirin 81mg"],
+      "treatment_plan": "Maintain low-fat diet, exercise 3x weekly.",
+      "follow_up_date": "2026-02-10",
+      "notes": "Monitor cholesterol levels; review in 3 months."
+    },
+    {
+      "id": "MR005",
+      "patient_id": 5,
+      "appointment_id": "APT005",
+      "prescription_id": "RX005",
+      "doctor": {
+        "name": "Dr. Sarah Owusu",
+        "specialization": "Pediatrician"
+      },
+      "visit_date": "2025-11-12",
+      "diagnosis": "Mild throat infection",
+      "symptoms": ["Sore throat", "Fever", "Loss of appetite"],
+      "vitals": {
+        "temperature_c": 38.1,
+        "blood_pressure": "102/68",
+        "heart_rate_bpm": 95,
+        "oxygen_saturation": "96%"
+      },
+      "allergies": [],
+      "prescribed_medications": ["Amoxicillin 250mg/5ml Suspension"],
+      "treatment_plan": "7-day antibiotic course; increase fluid intake.",
+      "follow_up_date": "2025-11-19",
+      "notes": "Condition improving; no complications expected."
+    }
+  ]
+
