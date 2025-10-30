@@ -1,40 +1,44 @@
 [
   {
     "id": 1,
-    "doctor_name": "Dr. Amina Boateng",
-    "doctor_email": "aboateng@hospital.com",
-    "patient_email": "efarfalameevk@upenn.edu",
-    "reason": "Recurring migraines",
-    "status": "pending",
-    "date_requested": "2025-10-30T06:02:10.000Z"
-  },
-  {
-    "id": 2,
-    "doctor_name": "Dr. Kwame Mensah",
-    "doctor_email": "kmensah@doclink.org",
-    "patient_email": "sarah.johnson@gmail.com",
-    "reason": "Request for refill of hypertension medication",
-    "status": "approved",
-    "date_requested": "2025-10-25T09:14:22.000Z"
-  },
-  {
-    "id": 3,
     "doctor_name": "Dr. Efua Adjei",
     "doctor_email": "eadjei@cityhealth.com",
-    "patient_email": "michael.kim@outlook.com",
     "reason": "Need antibiotic prescription after surgery",
     "status": "rejected",
     "date_requested": "2025-10-26T15:43:10.000Z"
   },
   {
-    "id": 4,
-    "doctor_name": "Dr. Kojo Asare",
-    "doctor_email": "kasare@metroclinic.com",
-    "patient_email": "lucy.owusu@yahoo.com",
-    "reason": "Chronic back pain — need stronger pain relief",
+    "id": 2,
+    "doctor_name": "Dr. Kwaku Mensah",
+    "doctor_email": "kmensah@accrahealth.org",
+    "reason": "Requesting refill for hypertension medication",
+    "status": "approved",
+    "date_requested": "2025-10-18T10:21:34.000Z"
+  },
+  {
+    "id": 3,
+    "doctor_name": "Dr. Amina Boateng",
+    "doctor_email": "aboateng@wellcareclinic.com",
+    "reason": "Follow-up prescription for asthma inhaler",
     "status": "pending",
-    "date_requested": "2025-10-29T11:08:45.000Z"
+    "date_requested": "2025-10-28T08:12:50.000Z"
+  },
+  {
+    "id": 4,
+    "doctor_name": "Dr. Daniel Owusu",
+    "doctor_email": "dowusu@greenhillhospital.org",
+    "reason": "Pain management medication for back injury",
+    "status": "approved",
+    "date_requested": "2025-10-22T14:37:15.000Z"
+  },
+  {
+    "id": 5,
+    "doctor_name": "Dr. Nana Asante",
+    "doctor_email": "nasante@doclinkmed.com",
+    "reason": "Requesting allergy relief medication for seasonal symptoms",
+    "status": "pending",
+    "date_requested": "2025-10-29T12:50:05.000Z"
   }
-
 ]
+
 
