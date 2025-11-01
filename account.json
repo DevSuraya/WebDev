@@ -1,47 +1,48 @@
 [
   {
     "id": 1,
-    "password": "admin123",
+    "password": "Adm!n#27XpQ9",
     "accounttype": "admin",
     "email": "admin1@example.com"
   },
   {
     "id": 2,
-    "password": "admin456",
+    "password": "Adm!n$46RvT8",
     "accounttype": "admin",
     "email": "admin2@example.com"
   },
   {
     "id": 3,
-    "password": "doctor123",
+    "password": "Doct0r@93LmZ!",
     "accounttype": "doctor",
     "email": "dr.smith@example.com"
   },
   {
     "id": 4,
-    "password": "doctor456",
+    "password": "Doct0r#56WvQ$",
     "accounttype": "doctor",
     "email": "dr.jones@example.com"
   },
   {
     "id": 5,
-    "password": "patient123",
+    "password": "P@tient_12FgX%",
     "accounttype": "patient",
     "email": "patient01@example.com"
   },
   {
     "id": 6,
-    "password": "patient456",
+    "password": "P@tient_45JmT#",
     "accounttype": "patient",
     "email": "patient02@example.com"
   },
   {
     "id": 7,
-    "password": "patient789",
+    "password": "P@tient_78QwR$",
     "accounttype": "patient",
     "email": "patient03@example.com"
   }
 ]
+
 
 
 
